@@ -5,7 +5,7 @@
 #
 $(VERBOSE).SILENT:
 
-PRJNAME = template-console
+PRJNAME = transceive_example
 
 all : help
 
